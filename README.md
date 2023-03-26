@@ -19,3 +19,4 @@ i tried different things like vlogging as YouTube Containt creator, also complet
 **Description:** My Tableau Public account -- [go to Tableau](https://public.tableau.com/app/profile/pallavi.sawant6870)
 
 ## Certifications
+- [introduction to SQL]
