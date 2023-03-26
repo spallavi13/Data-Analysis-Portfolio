@@ -14,7 +14,12 @@ i tried different things like vlogging as YouTube Containt creator, also complet
         
 ## Study Projects
 ### Introduction to Data Science in Python
+
 ### Introduction to SQL
+**Description:** Solving LeetCode SQL Problems.
+
+**Repository:** Check The Repository --- [go to repository](https://github.com/spallavi13/Learning-SQL)
+
 ### Tableau Vizzes
 **Description:** My Tableau Public account -- [go to Tableau](https://public.tableau.com/app/profile/pallavi.sawant6870)
 
