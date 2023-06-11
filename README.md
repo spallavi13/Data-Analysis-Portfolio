@@ -21,7 +21,7 @@ i tried different things like vlogging as YouTube Containt creator, also complet
 **Repository:** Check The Repository --- [go to repository](https://github.com/spallavi13/Learning-SQL)
 
 ### Tableau Vizzes
-**Description:** My Tableau Public account -- [go to Tableau](https://public.tableau.com/app/profile/pallavi.sawant6870)
+**Description:** My Tableau Public account -- [go to Tableau](https://public.tableau.com/app/profile/pallavi.sawant13)
 
 ## Certifications
 - [introduction to SQL]
