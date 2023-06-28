@@ -14,9 +14,12 @@ i tried different things like vlogging as YouTube Containt creator, also complet
         
 ## Study Projects
 ### Introduction to Data Science in Python
+**Description:** Created an ETL pipeline using Python.
+
+**Repository:** Check the repository --- [go to repository](https://github.com/spallavi13/python_projects)
 
 ### Introduction to SQL
-**Description:** Solving LeetCode SQL Problems.
+**Description:** Solving LeetCode SQL Problems. Database Admininistration SQL queries. Portfolio projects.
 
 **Repository:** Check The Repository --- [go to repository](https://github.com/spallavi13/Learning-SQL)
 
