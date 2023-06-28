@@ -3,8 +3,7 @@
 ## About
 
 Hi!I'm Pallavi! I have a technical background and hold a bachelor's Degree in Information Technology(IT) from Mumbai University, India.
-i have one year of experience as System Analyst whre i worked on client's employeee data using SAP in India, then I had a carreer break as i had to relocate to USA
-i tried different things like vlogging as YouTube Containt creator, also completed few courses from California State University, Sacramento, I have also completed a courses for Data Analyst from DataCamp, where i leared skills like Data Visualization by Tableau(Creating Dashboards), cleaning and analyzing data by using python (including  libraries like Pandas, Matplotlib, Seaborn), intermediate SQL, Excel etc.
+I have two year of experience as System Analyst where, I worked on client's employee data using SAP in IT Company. I completed few courses from California State University, Sacramento. I have also completed a courses for Data Analysis from DataCamp, where I learned data analysis and Data Visualization by Tableau(Creating Dashboards), cleaning and analyzing data by using python (including  libraries like Pandas, Matplotlib, Seaborn), SQL, Excel etc.
 
 ## Table of Contents
 - [Study Projects](#study-projects)
